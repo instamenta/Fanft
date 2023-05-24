@@ -1,0 +1,22 @@
+{
+  "name": "fanft",
+  "version": "1.0.0",
+  "description": "Crypto and NFT social trading platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_all"
+  },
+  "keywords": [
+    "nft",
+    "crypto",
+    "grpc",
+    "kafka",
+    "nodejs",
+    "javascript",
+    "ecmascript",
+    "golang",
+    "react"
+  ],
+  "author": "Jan Milenkov",
+  "license": "ISC"
+}
